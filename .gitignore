@@ -1,4 +1,4 @@
-_site
-*.swp
-.jekyll-cache
-.jekyll-metadata
+/_site/
+/_support/
+/.jekyll-metadata
+/.jekyll-cache/
