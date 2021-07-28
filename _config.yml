@@ -98,7 +98,7 @@ links:
       icon: fab fa-vine
   - facebook:
       name: Facebook
-      show: true
+      show: false
       href: https://facebook.com/YOUR_FB_USERNAME
       icon: fab fa-facebook
   - vkontakte:
@@ -181,6 +181,13 @@ links:
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
 extra_html: >
-    Useful words will go here
-
+    G'day and welcome to Wild Dog Honey. We are a father-son team that have been beekeeping since 2012. 
+    <br/>
+    We're based in the leafy outer eastern suburbs of Melbourne and our bees enjoy a native garden to forage in as well as a nice mix of flowers from our neighbours and nearby parks and reserves. 
+    <br/>
+    We got our first swarm through the <a href="https://www.beekeepers.org.au/">Doncaster Beekeeping Club</a>. We started with one Langstroth eight-frame full-depth hive and now we're up to five. 
+    <br/>
+    We have a sustainable mindset, we do not use pesticides on our garden, leave plenty of honey for our bees over winter and inspect the hives regularly for disease and pests.
+    <br/>
+    You can reach Steven on: 0417 013 487.
 #EOF
